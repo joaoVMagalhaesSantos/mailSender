@@ -1,0 +1,9 @@
+nao-responda@tieteonline.com.br
+toll6341
+smtp.tieteonline.com.br
+587
+ivan@tieteonline.com.br
+joaovit-01@hotmail.com
+Envio de arquivos
+Segue arquivos fiscais em Anexo 26-07
+C:\tolsistemas\contabil\relatorio.rar

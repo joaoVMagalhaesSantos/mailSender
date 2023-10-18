@@ -1,0 +1,17 @@
+C:\mailSender\mailSender\bin\Release\net6.0-windows\mailSender.exe
+C:\mailSender\mailSender\bin\Release\net6.0-windows\mailSender.deps.json
+C:\mailSender\mailSender\bin\Release\net6.0-windows\mailSender.runtimeconfig.json
+C:\mailSender\mailSender\bin\Release\net6.0-windows\mailSender.dll
+C:\mailSender\mailSender\bin\Release\net6.0-windows\mailSender.pdb
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.csproj.AssemblyReference.cache
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.Form1.resources
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.csproj.GenerateResource.cache
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.AssemblyInfoInputs.cache
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.AssemblyInfo.cs
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.csproj.CoreCompileInputs.cache
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.dll
+C:\mailSender\mailSender\obj\Release\net6.0-windows\refint\mailSender.dll
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.pdb
+C:\mailSender\mailSender\obj\Release\net6.0-windows\mailSender.genruntimeconfig.cache
+C:\mailSender\mailSender\obj\Release\net6.0-windows\ref\mailSender.dll
